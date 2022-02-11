@@ -5,7 +5,7 @@ define ('USER', 'testuser');
 define ('PASSWD', 'testpwd');
 define ('DATABASE', 'testdb');
 
-// HL7 Stettings
+// HL7 Settings
 define('HL7_IP', '127.0.0.1');
 define('HL7_ORGANIZATION', 72);
 define('HL7_PORT', 23887);

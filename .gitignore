@@ -1,3 +1,5 @@
 composer.lock
 /vendor/
 /.idea
+/var/settings/db.inc.php
+/var/logs
